@@ -1,3 +1,11 @@
+[B]1.0.0[/B]
+- Added option to replace default inof with extended info
+
+============
+[B]5.8.7[/B]
+- Removed genre label from LowList on episode level.
+- Added support for Cinema Vision add-on.
+
 [B]5.8.7[/B]
 - Removed genre label from LowList on episode level.
 - Added support for Cinema Vision add-on.

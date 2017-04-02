@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addons>
 <addon id="skin.generic.nox.generic"
-       version="5.8.4-4.0.2"
+       version="1.0.0"
        name="Generic Nox: Generic"
        provider-name="Generic">
   <requires>
@@ -29,7 +29,7 @@
     <summary lang="es">Generic Nox: Generic - Created by BigNoid, Modded by H24</summary>
     <summary lang="fi">Generic Nox: Generic - Created by BigNoid, Modded by H24</summary>
     <summary lang="fr">Generic Nox: Generic - Created by BigNoid, Modded by H24</summary>
-    <summary lang="fr_CA">Generic Nox : Generic</summary>
+    <summary lang="fr_CA">Generic Nox: Generic - Created by BigNoid, Modded by H24</summary>
     <summary lang="gl">Generic Nox: Generic - Created by BigNoid, Modded by H24</summary>
     <summary lang="he">Generic Nox: Generic - Created by BigNoid, Modded by H24</summary>
     <summary lang="hu">Generic Nox: Generic - Created by BigNoid, Modded by H24</summary>
@@ -79,7 +79,7 @@
     <description lang="th">การออกแบบใหม่หมดจด เพื่อสร้างรูปลักษณ์ทันสมัย, ​​ขณะที่ยังคงความรู้สึกคลาสสิคของ Aeon.</description>
     <description lang="vi">Thiết kế lại hoàn toàn để tạo nên một phong cách hiện đại, trong khi đó vẫn duy trì một cảm giác Aeon cổ điển.</description>
     <platform>all</platform>
-    <forum>http://forum.kodi.tv/showthread.php?tid=210069</forum>
+    <forum></forum>
   </extension>
 </addon>
 </addons>
